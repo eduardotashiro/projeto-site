@@ -1,2 +1,8 @@
 # projeto-site
-Projeto de um site criado durante o estudo de Git e Github 
+***  
+**Primeira** hospedagem, qualidade **duvidosa**...
+***
+_**Cuidado!!**_ este site pode gerar pensamentos inesperados...
+***
+https://eduardotashiro.github.io/projeto-site/
+***
