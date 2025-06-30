@@ -15,3 +15,13 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.404);
 }
+
+.imagem-centro {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.imagem-centro img {
+  max-width: 100%;
+  height: auto;
+}
